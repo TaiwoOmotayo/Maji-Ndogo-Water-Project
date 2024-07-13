@@ -27,4 +27,4 @@ To replicate and extend the Maji Ndogo Water Project locally:
 - Export reports from Power BI for sharing insights with stakeholders or incorporating into presentations and reports.
 
 ## License
-Curtesy of ALX and Explore AI Data Science training.
+Courtesy of ALX and Explore AI Data Science training.
